@@ -1,0 +1,113 @@
+.top-container {
+  background-color: #FAF7F0;
+  height: 800px;
+  width: 1500px;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+
+}
+
+h1 {
+  font-size: 5.6rem;
+      font-family: "Sacramento", sans-serif;
+      color: #66BFBF;
+      line-height: 2;
+}
+
+h3 {
+  color: #11999E;
+}
+
+h2 {
+  color: #11999E;
+  font-weight: normal;
+}
+
+hr {
+  border-style: dotted;
+  color: #EAF6F6;
+  width: 20%;
+  border-width: 10px;
+  border-top: none;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.Pro {
+  font-size: 40px;
+  color: #66BFBF;
+}
+
+.middle-container {
+  margin-top: 50px;
+
+}
+
+.lower-container {
+  background-color: #66BFBF;
+  padding: 15px 32px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+  padding-top: 100px;
+}
+
+.mountain {
+  width: 450px;
+}
+
+.footer-link {
+   color: #11999E;
+   margin: 10px
+}
+
+.left {
+  position: relative;
+  text-align: left;
+  line-height: 2;
+}
+
+.skilled {
+  width: 25%;
+  float: left;
+  padding-right: 50px
+}
+
+.middle-para {
+width: 500px;
+padding-left: 500px;
+}
+
+.contact-me {
+  width: 500px;
+  padding-left: 500px;
+}
+
+.btn {
+  background-color: #66BFBF
+  border: none;
+  padding: 15px 32px;
+  color: red;
+  display: inline-block;
+  font-size: 1em;
+}
